@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pa1em0n
-- 👀 I’m interested in Finace data science and Cybersecurity
-- 🌱 I’m currently learning Python, R, Flask, Shell, GNU/Linux, osi, tcp/ip, wep app with React, Angular, JS, TS, JAVA.
-- 💞️ I’m looking to collaborate on some project of data analisis.
+- 👀 I’m interested in web development backend.
+- 🌱 I’m currently learning JAVA, JS, TS, Python, R, Flask, Shell, GNU/Linux, osi, tcp/ip, wep app with Angular.
+- 💞️ I’m looking to collaborate on some web project.
 - 📫 How to reach me @Pa1em0n
 
 <!---
